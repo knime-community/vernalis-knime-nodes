@@ -13,6 +13,6 @@ Require-Bundle: org.knime.workbench.core;bundle-version="[3.0.0,6.0.0)",
  com.vernalis.knime.core;bundle-version="[1.0.0,2.0.0)",
  org.knime.ext.svg;bundle-version="[3.0.0,6.0.0)"
 Bundle-ActivationPolicy: lazy
-Bundle-RequiredExecutionEnvironment: JavaSE-17
+Bundle-RequiredExecutionEnvironment: JavaSE-21
 Automatic-Module-Name: com.vernalis.knime.bio.speedyseq
 

@@ -22,6 +22,6 @@ Export-Package:
  com.vernalis.knime.perfmon.nodes.loopstart.timing.memory,
  com.vernalis.knime.perfmon.nodes.memoryuse,
  com.vernalis.knime.perfmon.nodes.timing.abstrct
-Bundle-RequiredExecutionEnvironment: JavaSE-17
+Bundle-RequiredExecutionEnvironment: JavaSE-21
 Automatic-Module-Name: com.vernalis.knime.perfmon
 

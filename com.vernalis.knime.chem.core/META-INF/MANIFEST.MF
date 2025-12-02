@@ -20,6 +20,6 @@ Export-Package: com.vernalis.knime.chem.core,
  com.vernalis.knime.chem.util.elements,
  com.vernalis.knime.chem.util.points,
  com.vernalis.knime.core.nodes.props.abstrct
-Bundle-RequiredExecutionEnvironment: JavaSE-17
+Bundle-RequiredExecutionEnvironment: JavaSE-21
 Automatic-Module-Name: com.vernalis.knime.chem.core
 

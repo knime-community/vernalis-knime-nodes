@@ -18,6 +18,6 @@ Export-Package: com.vernalis.knime.jfcplot.core,
  com.vernalis.knime.jfcplot.core.legend,
  com.vernalis.knime.jfcplot.core.legenditemsources,
  com.vernalis.knime.jfcplot.core.nodes
-Bundle-RequiredExecutionEnvironment: JavaSE-17
+Bundle-RequiredExecutionEnvironment: JavaSE-21
 Automatic-Module-Name: com.vernalis.knime.jfcplot.core
 
