@@ -13,7 +13,7 @@
         <revision>1.38.2</revision>
         <changelist>-SNAPSHOT</changelist>
         <knime.version>nightly</knime.version>
-        <java.version>17</java.version>
+        <java.version>21</java.version>
         <maven.version>3.9.6</maven.version>
         <maven.enforcer.version>3.4.1</maven.enforcer.version>
         <maven.compiler.version>3.11.0</maven.compiler.version>
@@ -72,7 +72,7 @@
         <module>com.vernalis.knime.testing</module>
         <module>com.vernalis.knime.testing.core</module>
         <module>com.vernalis.knime.ui</module>
-        
+
         <!-- Test fragments -->
         <module>com.vernalis.knime.database.core.tests</module>
         <module>com.vernalis.knime.db.tests</module>
@@ -261,7 +261,7 @@
                     <generateBackupPoms>false</generateBackupPoms>
                 </configuration>
             </plugin>
-            
+
             <!-- Make sure Xvfb is running -->
             <!-- See https://stackoverflow.com/a/14727552/6076839 -->
             <!-- plugin>

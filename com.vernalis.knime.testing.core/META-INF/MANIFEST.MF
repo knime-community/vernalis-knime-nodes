@@ -12,6 +12,6 @@ Require-Bundle: org.knime.workbench.core;bundle-version="[4.4.0,6.0.0)",
  nl.esciencecenter.e3dchem.knime.testing.plugin;bundle-version="[1.0.3,2.0.0)"
 Bundle-ActivationPolicy: lazy
 Export-Package: com.vernalis.testing
-Bundle-RequiredExecutionEnvironment: JavaSE-17
+Bundle-RequiredExecutionEnvironment: JavaSE-21
 Automatic-Module-Name: com.vernalis.knime.testing.core
 

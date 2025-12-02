@@ -17,6 +17,6 @@ Require-Bundle: org.eclipse.core.runtime;bundle-version="[3.13.0,4.0.0)",
  org.knime.database.nodes;bundle-version="[4.4.0,6.0.0)",
  com.vernalis.knime.database.core;bundle-version="[1.0.0,2.0.0)"
 Bundle-ActivationPolicy: lazy
-Bundle-RequiredExecutionEnvironment: JavaSE-17
+Bundle-RequiredExecutionEnvironment: JavaSE-21
 Automatic-Module-Name: com.vernalis.knime.database
 
