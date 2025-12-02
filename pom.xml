@@ -12,7 +12,7 @@
     <properties>
         <revision>1.38.2</revision>
         <changelist>-SNAPSHOT</changelist>
-        <knime.version>5.4</knime.version>
+        <knime.version>nightly</knime.version>
         <java.version>17</java.version>
         <maven.version>3.9.6</maven.version>
         <maven.enforcer.version>3.4.1</maven.enforcer.version>
