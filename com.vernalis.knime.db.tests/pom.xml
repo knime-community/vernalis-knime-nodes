@@ -66,6 +66,12 @@
 								<id>com.vernalis.knime.testing</id>
 								<versionRange>0.0.0</versionRange>
 							</requirement>
+							<!-- Provides backward-compatible SQLite/H2 driver IDs for test workflows created with older KNIME versions -->
+							<requirement>
+								<type>eclipse-feature</type>
+								<id>org.knime.features.database.deprecated</id>
+								<versionRange>0.0.0</versionRange>
+							</requirement>
 							<!--requirement>
 								<type>eclipse-feature</type>
 								<id>org.rdkit.knime.binaries.feature</id>
