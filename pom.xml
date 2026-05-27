@@ -23,7 +23,7 @@
         <maven.plugin.version>3.8.2</maven.plugin.version>
         <maven.project.info.reports.version>3.4.3</maven.project.info.reports.version>
         
-        <tycho.version>4.0.8</tycho.version>
+        <tycho.version>4.0.13</tycho.version>
         <tycho.extras.version>${tycho.version}</tycho.extras.version>
         <tycho.test.jvmArgs>-Xmx512m</tycho.test.jvmArgs>
         <!-- Transitive wrapped plugin with version not managed by Tycho -->
